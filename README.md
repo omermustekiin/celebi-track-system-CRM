@@ -63,9 +63,9 @@ Live for Android, iOs and Web.
      <td>Product Detail</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/wKAt-uG0CHKEKHhblnhnPK4J5CZWfSi7ifdZS6_8n_n4UR_f0cRo-RjnixiI1674B3H4=w1052-h592-rw" width=250 height=450></td>
-    <td><img src="https://play-lh.googleusercontent.com/Z79AlMAi92SYV8zz13PGWfOTKfvSmuqTOcY6klgaNYDr_dOohIQOt8kBjYMUUAt_afQ=w2560-h1440-rw" width=250 height=450></td>
-    <td><img src="https://play-lh.googleusercontent.com/BZnjI6IB6zJPR9sARm7fsTaCrd915ESENU2icueh0JhOOx0t70vjbK5aXJlEXsNnykC1=w5120-h2880-rw" width=250 height=450></td>
+    <td><img src="https://play-lh.googleusercontent.com/wKAt-uG0CHKEKHhblnhnPK4J5CZWfSi7ifdZS6_8n_n4UR_f0cRo-RjnixiI1674B3H4=w1052-h592-rw" width=260 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/Z79AlMAi92SYV8zz13PGWfOTKfvSmuqTOcY6klgaNYDr_dOohIQOt8kBjYMUUAt_afQ=w2560-h1440-rw" width=260 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/BZnjI6IB6zJPR9sARm7fsTaCrd915ESENU2icueh0JhOOx0t70vjbK5aXJlEXsNnykC1=w5120-h2880-rw" width=260 height=500></td>
   </tr>
  </table>
  
@@ -77,9 +77,9 @@ Live for Android, iOs and Web.
      <td>Order Detail</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/BZwJkCZBM4664T3O_FWR1sUW7neXPX7kZw5HvMwCMg5kkKbxKuhb3_Ic-KWeL9Mc8Vg=w5120-h2880-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/occ6jLEZPrUHFi3vq6IQDF9WTNhWUAVnk4mKRL7kZy7OenyZ089O3eEECLfKU-wW3n8=w5120-h2880-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/qsn6usLe6iFicSES5bqYvPeoBzqjBMzb7IiYOqrJ-5gxV1asuWmC4LsHoaof7ypDn3ck=w5120-h2880-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/BZwJkCZBM4664T3O_FWR1sUW7neXPX7kZw5HvMwCMg5kkKbxKuhb3_Ic-KWeL9Mc8Vg=w5120-h2880-rw" width=260 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/occ6jLEZPrUHFi3vq6IQDF9WTNhWUAVnk4mKRL7kZy7OenyZ089O3eEECLfKU-wW3n8=w5120-h2880-rw" width=260 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/qsn6usLe6iFicSES5bqYvPeoBzqjBMzb7IiYOqrJ-5gxV1asuWmC4LsHoaof7ypDn3ck=w5120-h2880-rw" width=260 height=500></td>
   </tr>
  </table>
  
@@ -87,10 +87,14 @@ Live for Android, iOs and Web.
   <tr>
      <td>Edit Request</td>
      <td>Manage Users and Customers</td>
+    <td>Reports Page</td>
   </tr>
   <tr>
-    <td><img src="https://play-lh.googleusercontent.com/8PwW6aKEr78UgiWQnY4G_qSsCS1W9VTkuVTfyrgn6O3J9KdF0ICx6fATwJNUp6lX_Knv=w5120-h2880-rw" width=290 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/wbDF5SkzhQTYZAeRVZvTV0zpsFAA4IcRhvrxpkAaIinzmuwgcmbqQU6EKLxLUy1CQOk=w5120-h2880-rw" width=290 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/8PwW6aKEr78UgiWQnY4G_qSsCS1W9VTkuVTfyrgn6O3J9KdF0ICx6fATwJNUp6lX_Knv=w5120-h2880-rw" width=260 height=500></td>
+    <td><img src="https://play-lh.googleusercontent.com/wbDF5SkzhQTYZAeRVZvTV0zpsFAA4IcRhvrxpkAaIinzmuwgcmbqQU6EKLxLUy1CQOk=w5120-h2880-rw" width=260 height=500></td>
+    <td><img src="https://lh6.googleusercontent.com/rmpdlbz6xWzPzg8uyWPLcFaSFGIbhYsVoGuFh47YFmtIP1QpNthF5upBdnCi1F_1IU6CJpGX7KJ-NqARpfWZXqmTtgq1oqL0DbREi2muG0-z6q8khoVc3pLy2tN8pXjnYA=w1280" width=260 height=500></td>
+
+    https://lh6.googleusercontent.com/rmpdlbz6xWzPzg8uyWPLcFaSFGIbhYsVoGuFh47YFmtIP1QpNthF5upBdnCi1F_1IU6CJpGX7KJ-NqARpfWZXqmTtgq1oqL0DbREi2muG0-z6q8khoVc3pLy2tN8pXjnYA=w1280
   </tr>
  </table>
 
