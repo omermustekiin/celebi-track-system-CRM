@@ -105,11 +105,13 @@ Live for Android, iOs and Web.
      <td>App Logo</td>
      <td>Google Play Store</td>
      <td>App Store</td>
+     <td>Web Site</td>
   </tr>
   <tr>
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/00/99/eb0099a6-eb13-9bc9-04d2-7a7df9079de7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp" width=150 height=160></td>
     <td><a href="https://play.google.com/store/apps/details?id=com.celebi_track_mobile"><img src="https://yt3.googleusercontent.com/UlCw6skRB67meHd_jffAzV6DeXzAk1YzEFyhxI4meSgYAjA0wRhEnhT3TfHvuo7R-VwISzRTTao=s900-c-k-c0x00ffffff-no-rj" width=150 height=160></img></a></td>
     <td><a href="https://apps.apple.com/au/app/%C3%A7elebi-takip/id6670345972?platform=iphone"><img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png" width=150 height=160></img></a></td>
+    <td><a href=""><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width=150 height=160></img></a></td>
   </tr>
  </table>
 
