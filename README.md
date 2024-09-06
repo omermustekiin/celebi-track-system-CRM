@@ -1,11 +1,6 @@
 # Çelebi Track System - CRM
 
-Çelebi Track is a live order track  application I created with Flutter & Firebase, receives and processes data in "txt" type with TCP Socket API, and includes various database operations.
-
-Manage your organization's production, orders, customers and employees in real time with mobile or web.
-
-Live for Android, iOS and Web.
-
+Manage your organization's production, orders, customers and employees in real time with mobile and web.
 
 ### Features
 
