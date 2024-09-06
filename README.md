@@ -6,7 +6,6 @@ Manage your organization's production, orders, customers and employees in real t
 
 Live for Android, iOs and Web.
 
-View All: <a href="https://sites.google.com/view/www-celebi-takip-promo-com/ana-sayfa"></a>
 
 ### Features
 
@@ -94,6 +93,9 @@ View All: <a href="https://sites.google.com/view/www-celebi-takip-promo-com/ana-
     <td><img src="https://play-lh.googleusercontent.com/wbDF5SkzhQTYZAeRVZvTV0zpsFAA4IcRhvrxpkAaIinzmuwgcmbqQU6EKLxLUy1CQOk=w5120-h2880-rw" width=290 height=500></td>
   </tr>
  </table>
+
+### See All Screens
+    <a href="https://sites.google.com/view/www-celebi-takip-promo-com/ana-sayfa"></a>
  
 ### View or Download the App
 <table>
