@@ -1,6 +1,6 @@
 # Çelebi Track System - CRM
 
-Manage your organization's production, orders, customers and employees in real time with mobile and web.
+Manage and track your organization's production, orders, customers and employees in real time with mobile and web.
 
 ### Features
 
