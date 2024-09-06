@@ -91,8 +91,8 @@ Manage and track your organization's production, orders, customers and employees
   </tr>
  </table>
 
-### See All Screens
-    <a href="https://sites.google.com/view/www-celebi-takip-promo-com/ana-sayfa"></a>
+
+ <a href="https://sites.google.com/view/www-celebi-takip-promo-com/ana-sayfa">See All Screens</a>
  
 ### Links
 <table>
