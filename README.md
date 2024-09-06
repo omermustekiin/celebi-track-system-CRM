@@ -4,7 +4,7 @@
 
 Manage your organization's production, orders, customers and employees in real time with mobile or web.
 
-Live for Android, iOs and Web.
+Live for Android, iOS and Web.
 
 
 ### Features
