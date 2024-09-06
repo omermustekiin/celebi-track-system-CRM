@@ -93,8 +93,6 @@ Live for Android, iOs and Web.
     <td><img src="https://play-lh.googleusercontent.com/8PwW6aKEr78UgiWQnY4G_qSsCS1W9VTkuVTfyrgn6O3J9KdF0ICx6fATwJNUp6lX_Knv=w5120-h2880-rw" width=260 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/wbDF5SkzhQTYZAeRVZvTV0zpsFAA4IcRhvrxpkAaIinzmuwgcmbqQU6EKLxLUy1CQOk=w5120-h2880-rw" width=260 height=500></td>
     <td><img src="https://lh6.googleusercontent.com/rmpdlbz6xWzPzg8uyWPLcFaSFGIbhYsVoGuFh47YFmtIP1QpNthF5upBdnCi1F_1IU6CJpGX7KJ-NqARpfWZXqmTtgq1oqL0DbREi2muG0-z6q8khoVc3pLy2tN8pXjnYA=w1280" width=260 height=500></td>
-
-    https://lh6.googleusercontent.com/rmpdlbz6xWzPzg8uyWPLcFaSFGIbhYsVoGuFh47YFmtIP1QpNthF5upBdnCi1F_1IU6CJpGX7KJ-NqARpfWZXqmTtgq1oqL0DbREi2muG0-z6q8khoVc3pLy2tN8pXjnYA=w1280
   </tr>
  </table>
 
