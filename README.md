@@ -6,6 +6,8 @@ Manage your organization's production, orders, customers and employees in real t
 
 Live for Android, iOs and Web.
 
+View All: <a href="https://sites.google.com/view/www-celebi-takip-promo-com/ana-sayfa"></a>
+
 ### Features
 
 -With the Çelebi Tracking System, we combined Customer, Order and Production operations under one roof and facilitated the management of these processes and increased their reliability.
