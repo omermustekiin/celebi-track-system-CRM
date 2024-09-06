@@ -99,7 +99,7 @@ Live for Android, iOs and Web.
 ### See All Screens
     <a href="https://sites.google.com/view/www-celebi-takip-promo-com/ana-sayfa"></a>
  
-### View or Download the App
+### Links
 <table>
   <tr>
      <td>App Logo</td>
