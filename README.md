@@ -63,7 +63,7 @@ Live for Android, iOs and Web.
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/wKAt-uG0CHKEKHhblnhnPK4J5CZWfSi7ifdZS6_8n_n4UR_f0cRo-RjnixiI1674B3H4=w1052-h592-rw" width=300 height=500></td>
-    <td><img src="https://play-lh.googleusercontent.com/eIhcL3wpLkox4CZm0v8AEe2ydQbNCHOMHhzUCR7dwxSJ5J7nY3hcbBto7BM0NBwM5A=w2560-h1440-rw" width=280 height=500></td>
+    <td><img src="https://drive.google.com/file/d/1nv6hRe_25S8lMpgR8v4TGTjNrh9NON_f/view?usp=sharing" width=280 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/BZnjI6IB6zJPR9sARm7fsTaCrd915ESENU2icueh0JhOOx0t70vjbK5aXJlEXsNnykC1=w5120-h2880-rw" width=270 height=500></td>
   </tr>
  </table>
