@@ -1,5 +1,9 @@
 # Çelebi Track System - CRM
 
+This project was created using Flutter & NodeJS technologies.
+
+Platform: Android, iOS and Web.
+
 Manage and track your organization's production, orders, customers and employees in real time with mobile and web.
 
 ### Features
@@ -47,6 +51,8 @@ Manage and track your organization's production, orders, customers and employees
 -Manage Your Users and Customers.
 
 -View All Statistics in Reports Page.
+
+-Turkish and English Language Options.
 
 
 ### Images
