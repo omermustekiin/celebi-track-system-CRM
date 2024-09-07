@@ -12,7 +12,8 @@ Manage and track your organization's production, orders, customers and employees
 
 -Easily manage Users, Customers, Orders and Production Operations.
 
--In-application authorization and access control with different user types. For example: Admin and Seller.
+-In-application authorization and access control with different user types
+[Admin, Treasury, Product Expert, Product Helper, Seller Expert, Seller Helper]
 
 -Instant Product Ordering and Tracking.
 
