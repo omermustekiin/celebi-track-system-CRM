@@ -94,7 +94,7 @@ Manage and track your organization's production, orders, customers and employees
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/8PwW6aKEr78UgiWQnY4G_qSsCS1W9VTkuVTfyrgn6O3J9KdF0ICx6fATwJNUp6lX_Knv=w5120-h2880-rw" width=260 height=500></td>
     <td><img src="https://play-lh.googleusercontent.com/wbDF5SkzhQTYZAeRVZvTV0zpsFAA4IcRhvrxpkAaIinzmuwgcmbqQU6EKLxLUy1CQOk=w5120-h2880-rw" width=260 height=500></td>
-    <td><img src="https://lh6.googleusercontent.com/rmpdlbz6xWzPzg8uyWPLcFaSFGIbhYsVoGuFh47YFmtIP1QpNthF5upBdnCi1F_1IU6CJpGX7KJ-NqARpfWZXqmTtgq1oqL0DbREi2muG0-z6q8khoVc3pLy2tN8pXjnYA=w1280" width=260 height=500></td>
+    <td><img src="https://lh3.googleusercontent.com/hi1oHmNHoHsdVVEKgwCYTfyYeRI8lDf8xeGoPy2QF8pVa6paGNOMAo0_b7DSZ_xrNNumcKiVa5wv6ULcBIQuoZmuA_bBSz1EWvkJlzLy8wca8xcII1Geb4vhI0ftv4tsGQ=w1280" width=260 height=500></td>
   </tr>
  </table>
 
